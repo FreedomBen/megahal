@@ -14,13 +14,13 @@ require 'rake'
 require 'jeweler'
 Jeweler::Tasks.new do |gem|
   # gem is a Gem::Specification... see http://docs.rubygems.org/read/chapter/20 for more options
-  gem.name = "megahal"
-  gem.homepage = "http://github.com/jasonhutchens/megahal"
+  gem.name = "megahal-freedomben"
+  gem.homepage = "https://github.com/FreedomBen/megahal"
   gem.license = "UNLICENSE"
   gem.summary = %Q{MegaHAL is a learning chatterbot.}
   gem.description = %Q{Have a weird conversation with a computer.}
   gem.email = "jasonhutchens@gmail.com"
-  gem.authors = ["Jason Hutchens"]
+  gem.authors = ["Jason Hutchens", "Benjamin Porter"]
   gem.required_ruby_version = "~> 2.1"
   # dependencies defined in Gemfile
 end
